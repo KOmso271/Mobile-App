@@ -1,1 +1,2 @@
-Quizz App for mobile
+APP for Mobile
+
